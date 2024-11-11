@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779925715833",
+    "firebase_url": "https://dbpruebaalumnos-default-rtdb.firebaseio.com",
+    "project_id": "dbpruebaalumnos",
+    "storage_bucket": "dbpruebaalumnos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779925715833:android:270d1b74d1f9dbe070cda8",
+        "android_client_info": {
+          "package_name": "com.tsjluis.produccionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCto8oK3eH-GvbiQtukHuj74WLwX9BQRH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
